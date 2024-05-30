@@ -1,0 +1,31 @@
+header{
+    background-color: #FFD23F;
+    padding: 24px;
+}
+
+ul{
+   display: flex;
+   justify-content: space-evenly;
+   text-align: center;
+   list-style: none;
+}
+
+a{
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+button{
+    background-color: #6420AA;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+}
+a:hover{
+    text-decoration: underline;
+}
+button:hover{
+    background-color: #1B1A55;
+}
